@@ -29,9 +29,9 @@
                   
                   2. It enables multiple contributors to work without overwriting each others work, ensuring that codebases remains reliable and manageable.
                   
-                  3. Provides tools to handle conflicting changes x, thus ensuring code consistency.
+                  3. Provides tools to handle conflicting changes, thus ensuring code consistency.
                   
-## Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
+2. Describe the process of setting up a new repository on GitHub. What are the key steps involved, and what are some of the important decisions you need to make during this process?
 
 ## Discuss the importance of the README file in a GitHub repository. What should be included in a well-written README, and how does it contribute to effective collaboration?
 
